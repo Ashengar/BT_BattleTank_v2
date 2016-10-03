@@ -11,3 +11,4 @@ Using Unreal 4.13.1
 * 04_Looking At Landscapes
 * 05_Creating A Landacape
 * 06_Landscape Arena Completed
+* 07_Importing Battle Tank Model and Camera View
