@@ -8,4 +8,4 @@ Using Unreal 4.13.1
 * 01_Introduction
 * 02_Initial Commit
 * 03_Adjusting ReadME
-* 04_Looking At Lanscapes
+* 04_Looking At Landscapes
