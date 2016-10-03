@@ -10,3 +10,4 @@ Using Unreal 4.13.1
 * 03_Adjusting ReadME
 * 04_Looking At Landscapes
 * 05_Creating A Landacape
+* 06_Landscape Arena Completed
