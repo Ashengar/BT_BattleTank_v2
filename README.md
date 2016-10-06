@@ -21,3 +21,4 @@ Using Unreal 4.13.1
 * 14_Gun Elevation SetUp
 * 15_Aiming Solution
 * 16_Barrel and Turret Movement
+* 17_Barrel and Turret pt2
