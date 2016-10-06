@@ -20,3 +20,4 @@ Using Unreal 4.13.1
 * 13_Setting up the Projectile Flight
 * 14_Gun Elevation SetUp
 * 15_Aiming Solution
+* 16_Barrel and Turret Movement
