@@ -7,6 +7,7 @@
 
 
 // Forward Declaration
+class UTankTurret;
 class UTankBarrel; 
 
 
@@ -21,14 +22,15 @@ public:
 	UTankAimingComponent();
 
 	void SetBarrelReference(UTankBarrel* BarrelToSet);
+	void SetTurretReference(UTankTurret* TurretToSet);
 
-	// TODO add SetTurretRef
 
 	void AimAt(FVector HitLocation, float LaunchSpeed);
 	
 
 private:
 	UTankBarrel* Barrel = nullptr;
+	UTankTurret* Turret = nullptr;
 
 	void MoveBarrelTowards(FVector AimDirection);
 };
