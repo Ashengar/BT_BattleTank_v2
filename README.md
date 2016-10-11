@@ -1,4 +1,4 @@
-BattleTank
+*c BattleTank
 
 An open-world head to head tank game in Unreal 4
 
@@ -23,3 +23,4 @@ Using Unreal 4.13.1
 * 16_Barrel and Turret Movement
 * 17_Barrel and Turret pt2
 * 18_Sorting out Collision Issue
+* 19_Adding a Projectile
