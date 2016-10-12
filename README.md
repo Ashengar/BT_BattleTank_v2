@@ -1,4 +1,4 @@
-*****c BattleTank
+******c BattleTank
 
 An open-world head to head tank game in Unreal 4
 
@@ -29,3 +29,4 @@ Using Unreal 4.13.1
 * 22_Moving the Tank
 * 23_Completing Manual Tank Movement
 * 24_AI NavMesh and AI Movement
+* 25_Cleaning up Movement Class
