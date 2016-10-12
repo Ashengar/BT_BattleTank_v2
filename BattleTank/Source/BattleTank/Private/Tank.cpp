@@ -5,6 +5,7 @@
 #include "TankBarrel.h"
 #include "Projectile.h"
 #include "TankAimingComponent.h"
+#include "TankMovementComponent.h"
 #include "Tank.h"
 
 
@@ -16,6 +17,7 @@ ATank::ATank()
 
 	// No need to protect pointers at added construction
 	TankAimingComponent = CreateDefaultSubobject<UTankAimingComponent>(FName("Aiming Component"));
+
 }
 
 void ATank::SetBarrelReference(UTankBarrel* BarrelToSet)
