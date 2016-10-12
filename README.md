@@ -27,3 +27,4 @@ Using Unreal 4.13.1
 * 20_Limiting Projectile Fire Rate
 * 21_Adding Throttle Movement
 * 22_Moving the Tank
+* 23_Completing Manual Tank Movement
