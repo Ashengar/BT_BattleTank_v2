@@ -31,3 +31,4 @@ Using Unreal 4.13.1
 * 24_AI NavMesh and AI Movement
 * 25_Cleaning up Movement Class
 * 26_Debugging
+* 27_ensure added
