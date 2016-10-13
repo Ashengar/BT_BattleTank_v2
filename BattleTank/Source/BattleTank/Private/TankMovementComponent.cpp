@@ -7,10 +7,8 @@
 
 void UTankMovementComponent::Initialise(UTankTrack* LeftTrackToSet, UTankTrack* RightTrackToSet)
 {
-	
 	LeftTrack = LeftTrackToSet;
 	RightTrack = RightTrackToSet;
-
 }
 
 void UTankMovementComponent::RequestDirectMove(const FVector& MoveVelocity, bool bForceMaxSpeed)
