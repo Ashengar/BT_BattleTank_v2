@@ -32,3 +32,4 @@ Using Unreal 4.13.1
 * 25_Cleaning up Movement Class
 * 26_Debugging
 * 27_ensure added
+* 28_Dependancy Mapping
