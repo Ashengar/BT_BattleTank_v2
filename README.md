@@ -35,3 +35,4 @@ Using Unreal 4.13.1
 * 28_Dependancy Mapping
 * 29_Starting from Green
 * 30_Aiming without Tank (Refactoring)
+* 31_Finishing Refactor
