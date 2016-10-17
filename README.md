@@ -38,3 +38,4 @@ Using Unreal 4.13.1
 * 31_Finishing Refactor
 * 32_Adding Tick
 * 33_Aiming Float=Float?
+* 34_On Component Hit
