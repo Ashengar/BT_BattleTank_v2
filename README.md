@@ -47,3 +47,4 @@ Using Unreal 4.13.1
 * 40_Particle System Setup
 * 41_AttachTo_Particle Effects
 * 42_ImpactBlast
+* 43_Taking Damage
