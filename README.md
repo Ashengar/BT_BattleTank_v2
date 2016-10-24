@@ -48,3 +48,4 @@ Using Unreal 4.13.1
 * 41_AttachTo_Particle Effects
 * 42_ImpactBlast
 * 43_Taking Damage
+* 44_Adding Health Bar and Pt1 Delegates
