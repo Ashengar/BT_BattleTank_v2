@@ -50,3 +50,4 @@ Using Unreal 4.13.1
 * 43_Taking Damage
 * 44_Adding Health Bar and Pt1 Delegates
 * 45_Delgates pt2 / Finishing Off pt1
+* 46_Finishing Up pt2
